@@ -50,8 +50,6 @@ Models such as Sora, Veo, Kling, Seedance, HunyuanVideo, and Wan fall within thi
 
 ## Models
 
-**LVGM status:** ✅ confirmed LVGM · 🔶 believed to be an LVGM · ❌ not an LVGM
-
 | Model | Affiliation | Year | Paper | Code | Type |
 | --- | --- | --- | --- | --- | --- |
 | VideoGAN | MIT | 2016 | [Paper](https://arxiv.org/abs/1609.02612) | [Code](https://github.com/cvondrick/videogan) | GAN |

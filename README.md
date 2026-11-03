@@ -182,7 +182,7 @@ If you find this survey or repository useful, please consider citing:
   title   = {Large Video Generative Models: A Systematic Survey},
   journal = {Preprints},
   year    = {2026},
-  doi     = {10.20944/preprints202610.2442.v1},
-  url     = {https://doi.org/10.20944/preprints202610.2442.v1}
+  number  = {2026102442},
+  doi     = {10.20944/preprints202610.2442.v1}
 }
 ```
